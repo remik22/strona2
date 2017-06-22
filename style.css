@@ -6,12 +6,23 @@
     max-width: 1000px;
     
 }
-body {background-color: cadetblue}
+body {
+    background-color: cadetblue;
+    background: url(7972.jpg);
+    background-size: 2300px;
+    
+    
+}
+
 
 #wrapper {
     max-width: 1000px;
     margin: auto auto;
-    background-color:powderblue;
+    
+    background: url(7972.jpg);
+    width: 100%;
+    
+    
     
     
     
